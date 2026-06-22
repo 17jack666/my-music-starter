@@ -1,7 +1,0 @@
-{
-  "reqPermissions": [
-    {
-      "name": "ohos.permission.INTERNET"
-    }
-  ]
-}
